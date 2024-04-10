@@ -1,0 +1,61 @@
+/* *{
+    text-align: center;
+    background-color: rgb(158, 249, 249) ;
+} */
+body{
+    background-color: rgb(168, 236, 168);
+    text-align: center;
+}
+
+#taskInput{
+    text-align: left;
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.Addtask{
+    height: 30px;
+    background-color: green;
+    color: white;
+    margin-top: 5px;
+    border-radius: 5px;
+    cursor: pointer; 
+}
+
+.Addtask:hover{
+    background-color: rgb(136, 188, 136);
+}
+
+.b1{
+    height: 30px;
+    background-color: green;
+    color: white;
+    margin-top: 1px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.b1:hover{
+    background-color: rgb(136, 188, 136);
+}
+
+.delete-button{
+    background-color: red;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 60px;
+    
+    color: white;
+    float: right;
+   
+}
+li{
+    border: 3px solid black;
+    background-color: white;
+    text-align: left;
+    margin: 10px;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px;
+    padding: 5px;
+}
+    
